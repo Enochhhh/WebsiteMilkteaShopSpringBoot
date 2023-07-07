@@ -8,7 +8,7 @@
   - Nguyễn Mạnh Toàn: Front-end
     
 ## Technology
-  - Front-end: Android
+  - Front-end: React
   - Back-end: Java, Spring Boot
   - Database: MySQL
 
